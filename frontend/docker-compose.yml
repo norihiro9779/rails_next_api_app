@@ -1,7 +1,7 @@
 version: "3"
 services:
   # アプリの設定
-  front:
+  app:
     # コンテナ名の指定
     container_name: frontend
     # Dockerfileのあるディレクトリパスを指定
